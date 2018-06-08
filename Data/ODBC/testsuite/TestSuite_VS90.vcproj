@@ -499,6 +499,8 @@
 				Name="Source Files">
 				<File
 					RelativePath=".\src\ODBCTestSuite.cpp"/>
+				<File
+					RelativePath=".\src\Driver.cpp"/>
 			</Filter>
 		</Filter>
 	</Files>

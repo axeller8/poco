@@ -631,6 +631,10 @@
 				Name="Source Files"
 				>
 				<File
+					RelativePath=".\src\Driver.cpp"
+					>
+				</File>
+				<File
 					RelativePath=".\src\CryptoTestSuite.cpp"
 					>
 				</File>

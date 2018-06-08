@@ -467,6 +467,8 @@
 				Name="Source Files">
 				<File
 					RelativePath=".\src\CppParserTestSuite.cpp"/>
+				<File
+					RelativePath=".\src\Driver.cpp"/>
 			</Filter>
 		</Filter>
 		<Filter

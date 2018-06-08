@@ -563,6 +563,14 @@
 					RelativePath=".\src\XMLTestSuite.cpp"/>
 			</Filter>
 		</Filter>
+		<Filter
+			Name="_Driver">
+			<Filter
+				Name="Source Files">
+				<File
+					RelativePath=".\src\Driver.cpp"/>
+			</Filter>
+		</Filter>
 	</Files>
 	<Globals/>
 </VisualStudioProject>

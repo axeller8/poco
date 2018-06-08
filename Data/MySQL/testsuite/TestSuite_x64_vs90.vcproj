@@ -471,6 +471,8 @@
 				Name="Source Files">
 				<File
 					RelativePath=".\src\MySQLTestSuite.cpp"/>
+				<File
+					RelativePath=".\src\Driver.cpp"/>
 			</Filter>
 		</Filter>
 	</Files>

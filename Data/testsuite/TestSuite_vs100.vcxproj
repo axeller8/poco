@@ -332,6 +332,7 @@
     <ClCompile Include="src\SessionImpl.cpp"/>
     <ClCompile Include="src\TestStatementImpl.cpp"/>
     <ClCompile Include="src\SessionPoolTest.cpp"/>
+    <ClCompile Include="src\Driver.cpp"/>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets"/>
   <ImportGroup Label="ExtensionTargets"/>

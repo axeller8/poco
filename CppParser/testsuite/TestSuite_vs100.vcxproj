@@ -318,6 +318,7 @@
     <ClInclude Include="src\AttributesTestSuite.h"/>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="src\Driver.cpp"/>
     <ClCompile Include="src\CppParserTest.cpp"/>
     <ClCompile Include="src\CppParserTestSuite.cpp"/>
     <ClCompile Include="src\AttributesParserTest.cpp"/>

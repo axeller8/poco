@@ -327,6 +327,7 @@
     <ClCompile Include="src\EVPTest.cpp" />
     <ClCompile Include="src\PKCS12ContainerTest.cpp" />
     <ClCompile Include="src\RSATest.cpp" />
+    <ClCompile Include="src\Driver.cpp" />
     <ClCompile Include="src\CryptoTestSuite.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

@@ -2,7 +2,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CppUnit", "CppUnit_WEC2013_vs110.vcxproj", "{138BB448-808A-4FE5-A66D-78D1F8770F59}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WinTestRunner", "WinTestRunner\WinTestRunner_WEC2013_vs110.vcxproj", "{505010B7-46C7-44BA-9F9D-E77429AF5CB9}"
 	ProjectSection(ProjectDependencies) = postProject
 		{138BB448-808A-4FE5-A66D-78D1F8770F59} = {138BB448-808A-4FE5-A66D-78D1F8770F59}
 	EndProjectSection

@@ -64,7 +64,7 @@
 				SuppressStartupBanner="true"
 				GenerateDebugInformation="true"
 				ProgramDatabaseFile="bin64\TestSuited.pdb"
-				SubSystem="2"
+				SubSystem="1"
 				TargetMachine="17"
 				AdditionalOptions=""/>
 			<Tool
@@ -134,7 +134,7 @@
 				LinkIncremental="1"
 				AdditionalLibraryDirectories="..\..\lib64"
 				GenerateDebugInformation="false"
-				SubSystem="2"
+				SubSystem="1"
 				OptimizeReferences="2"
 				EnableCOMDATFolding="2"
 				TargetMachine="17"
@@ -207,7 +207,7 @@
 				SuppressStartupBanner="true"
 				GenerateDebugInformation="true"
 				ProgramDatabaseFile="bin64\static_mt\TestSuited.pdb"
-				SubSystem="2"
+				SubSystem="1"
 				TargetMachine="17"
 				AdditionalOptions=""/>
 			<Tool
@@ -278,7 +278,7 @@
 				AdditionalLibraryDirectories="..\..\lib64"
 				IgnoreDefaultLibraryNames="nafxcw.lib;libcmt.lib"
 				GenerateDebugInformation="false"
-				SubSystem="2"
+				SubSystem="1"
 				OptimizeReferences="2"
 				EnableCOMDATFolding="2"
 				TargetMachine="17"
@@ -350,7 +350,7 @@
 				SuppressStartupBanner="true"
 				GenerateDebugInformation="true"
 				ProgramDatabaseFile="bin64\static_md\TestSuited.pdb"
-				SubSystem="2"
+				SubSystem="1"
 				TargetMachine="17"
 				AdditionalOptions=""/>
 			<Tool
@@ -420,7 +420,7 @@
 				LinkIncremental="1"
 				AdditionalLibraryDirectories="..\..\lib64"
 				GenerateDebugInformation="false"
-				SubSystem="2"
+				SubSystem="1"
 				OptimizeReferences="2"
 				EnableCOMDATFolding="2"
 				TargetMachine="17"
